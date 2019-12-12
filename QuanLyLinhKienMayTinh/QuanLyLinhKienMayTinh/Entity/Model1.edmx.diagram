@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="97a89c77383b449cb8429fd88c39eded" Name="Diagram1" ZoomLevel="68">
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.BANGCAP" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.CT_HOADONBAN" Width="1.5" PointX="11.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.CT_HOADONMUA" Width="1.5" PointX="8.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.CT_PHIEUNHAP" Width="1.5" PointX="8.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.CT_PHIEUXUAT" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.GIA_LK" Width="1.5" PointX="8.25" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.GIANHAP_LK" Width="1.5" PointX="8.25" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.HOADON_BANHANG" Width="1.5" PointX="9" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.HOADON_MUAHANG" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.KHACHHANG" Width="1.5" PointX="6.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.LINHKIEN" Width="1.5" PointX="6" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.LOAI_LK" Width="1.5" PointX="3.75" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.ND_NND" Width="1.5" PointX="14" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.NGUOIDUNG" Width="1.5" PointX="11.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.NHACUNGCAP" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.NHOMNGUOIDUNG" Width="1.5" PointX="11.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.PHIEUNHAP" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.PHIEUXUAT" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.sysdiagram" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.THAMSO" Width="1.5" PointX="14" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLinhKienMayTinhModel.GiaLinhKienUpdated" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTHOADONBAN_HOADONBANHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTHOADONBAN_LINHKIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTHOADONMUA_HOADONMUAHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTHOADONMUA_LINHKIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTPHIEUNHAP_LINHKIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTPHIEUNHAP_PHIEUNHAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_CTPHIEUXUAT_PHIEUXUAT" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_GIA_LK_LINHKIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_GIA_LK_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_GIANHAP_LK_LINHKIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_HOADONBANHANG_KHACHHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_HOADONBANHANG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_HOADONMUAHANG_NHACUNGCAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_HOADONMUAHANG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_LINHKIEN_LOAI_LK" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_LINHKIEN_NHACUNGCAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_ND_NND_NGUOIDUNG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_ND_NND_NHOMNGUOIDUNG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_NGUOIDUNG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_PHIEUNHAP_NHACUNGCAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_PHIEUNHAP_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_PHIEUXUAT_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_THAMSO_NHOMNGUOIDUNG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLinhKienMayTinhModel.FK_THAMSO_NHOMNGUOIDUNG1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

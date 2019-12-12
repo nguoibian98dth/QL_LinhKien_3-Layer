@@ -1,0 +1,4 @@
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DTO\bin\Debug\DTO.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DTO\bin\Debug\DTO.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DTO\obj\Debug\DTO.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DTO\obj\Debug\DTO.pdb

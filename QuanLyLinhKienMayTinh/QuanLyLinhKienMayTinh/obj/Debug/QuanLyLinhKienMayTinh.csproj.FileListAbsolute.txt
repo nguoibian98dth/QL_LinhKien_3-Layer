@@ -1,0 +1,124 @@
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.frmMain.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmCapNhatGiaNhap.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmCauHinhcs.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmDangNhap_dev.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.RibbonForm1.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBanLK.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoBH.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoKinhDoanh.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoNH.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucCaNhan.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucDoiMK.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucInHDB.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucMuaLK.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNCC.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNhapLK.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNhomQuyen.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucPhanQuyen.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucPhanQuyenMH.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLKhachHang.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLLinhKien.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLNguoiDung.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLNhanVien.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucThamSo.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucXuatLK.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmCapNhatThongTinNguoiDung.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmQuanLyLinhKien.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmQuanLyNV.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmTaoTkNguoiDung.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmThemNDvaoNhomND.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.test.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.exe.licenses
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.exe.config
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.exe
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.pdb
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.exe
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.pdb
+C:\Users\Admin\Desktop\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.exe.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.frmMain.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmCapNhatGiaNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmCauHinhcs.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmDangNhap_dev.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.RibbonForm1.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBanLK.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoBH.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoKinhDoanh.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoNH.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucCaNhan.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucDoiMK.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucInHDB.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucMuaLK.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNCC.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNhapLK.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNhomQuyen.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucPhanQuyen.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucPhanQuyenMH.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLKhachHang.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLLinhKien.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLNguoiDung.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLNhanVien.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucThamSo.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucXuatLK.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmCapNhatThongTinNguoiDung.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmQuanLyLinhKien.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmTaoTkNguoiDung.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.frmThemNDvaoNhomND.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDien.test.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.exe.licenses
+C:\Users\Admin\OneDrive\Máy tính\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csprojResolveAssemblyReference.cache
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.exe.config
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csproj.ResolveComReference.cache
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.exe
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.exe
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\QuanLyLinhKienMayTinh.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmCapNhatGiaNhap.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmCauHinhcs.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmDangNhap_dev.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.RibbonForm1.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBanLK.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoBH.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoKinhDoanh.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucBaoCaoNH.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucCaNhan.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucDoiMK.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucInHDB.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucMuaLK.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNCC.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNhapLK.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucNhomQuyen.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucPhanQuyen.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucPhanQuyenMH.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLKhachHang.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLLinhKien.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLNguoiDung.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucQLNhanVien.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucThamSo.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucXuatLK.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.Properties.Resources.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csproj.GenerateResource.Cache
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.exe.licenses
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.ucIntroduction.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmTacGia.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmLoaiLKcs.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.GiaoDienDevExpress.frmReport.resources
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\obj\Debug\QuanLyLinhKienMayTinh.csprojResolveAssemblyReference.cache
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\BUS.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\DTO.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\DAL.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\BUS.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\DTO.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\QuanLyLinhKienMayTinh\bin\Debug\DAL.pdb

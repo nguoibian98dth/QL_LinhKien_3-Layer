@@ -1,0 +1,7 @@
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\bin\Debug\DAL.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\bin\Debug\DAL.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\obj\Debug\DAL.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\obj\Debug\DAL.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\bin\Debug\DAL.dll.config
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\bin\Debug\DTO.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\DAL\bin\Debug\DTO.pdb

@@ -1,0 +1,9 @@
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\bin\Debug\BUS.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\bin\Debug\BUS.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\bin\Debug\DAL.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\bin\Debug\DTO.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\bin\Debug\DAL.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\bin\Debug\DTO.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\obj\Debug\BUS.dll
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\obj\Debug\BUS.pdb
+E:\VS\C#\QuanLyLinhKienMayTinh_Linh01\QuanLyLinhKienMayTinh\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
